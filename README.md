@@ -50,9 +50,9 @@ gradient_descent performs the gradient descent algorithm to optimize the interce
 
 predict_function predicts salaries based on the learned model.
 
-## Author
-This mini project made by TomBui with learning resource from DLLT
-
 The main part of the code uses gradient descent to fit a linear regression model to the data, and it prints the resulting intercept and slope.
 
 Depending on the user's choice, the script either predicts a future salary or plots the linear regression line.
+
+## Author
+This mini project made by TomBui with learning resource from DLLT
