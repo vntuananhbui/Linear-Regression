@@ -1,17 +1,19 @@
 **Linear Regression Salary Predictor**
 
-Introduction
+**Introduction**
 This Python script performs linear regression analysis on salary data to predict future salaries based on years of experience. It uses the gradient descent algorithm to find the best-fit linear regression line for the given data. Additionally, the script allows users to make salary predictions for a specific year or visualize the linear regression line using matplotlib.
 
-Requirements
+**Requirements**
 To run this script, you'll need the following:
 
 Python 3.x installed on your machine.
 
 Required Python packages: numpy, matplotlib, pandas, and scikit-learn. You can install them using pip:
 
-Copy code
-pip install numpy matplotlib pandas scikit-learn
+**Copy code**
+```bash
+# pip install numpy matplotlib pandas scikit-learn
+```
 Usage
 Data Preparation:
 
