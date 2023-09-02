@@ -33,7 +33,7 @@ After entering the year, the script will display the predicted salary for that y
 ## Option 2: Plot Linear Regression Line
 If you choose option '2,' the script will generate a plot showing the data points (years vs. salaries) and the linear regression line.
 This visualization helps you visualize the relationship between years of experience and salary, showcasing how the linear regression model fits the data.
-Understanding the Code
+## Explain Code
 The code is structured as follows:
 
 It starts by importing necessary libraries, including numpy, matplotlib, pandas, and scikit-learn.
